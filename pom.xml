@@ -2,12 +2,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mycompany</groupId>
-	<artifactId>github-actions</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<groupId>b85003ad-bb80-4754-b9e9-3d6cd3365369</groupId>
+	<artifactId>MULE-project-01</artifactId>
+	<version>1.0.0-</version>
 	<packaging>mule-application</packaging>
 
-	<name>github-actions</name>
+	<name>MULE-project-01</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
 
 		<app.runtime>4.4.0</app.runtime>
 		<mule.maven.plugin.version>3.8.0</mule.maven.plugin.version>
-		<app.name>amartinez17-github-actions</app.name>
+		<app.name>MULE-project-01</app.name>
 		<env>Sandbox</env>
 		<munit.version>2.3.13</munit.version>
 	</properties>
