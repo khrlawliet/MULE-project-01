@@ -4,7 +4,7 @@
 
 	<groupId>b85003ad-bb80-4754-b9e9-3d6cd3365369</groupId>
 	<artifactId>MULE-project-01</artifactId>
-	<version>1.0.0-</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>MULE-project-01</name>
